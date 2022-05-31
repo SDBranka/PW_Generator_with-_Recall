@@ -10,9 +10,9 @@
 
 
 <p float="center">
-    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot0.png" width=30% alt="app pic two" />
-    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot1.png" width=31% alt="app pic two" />
-    <img src="https://github.com/SDBranka/Password_Generator/blob/main/Pw_Generator_Screenshot2.png" width=30% alt="app pic two" />
+    <img src="https://github.com/SDBranka/PW_Generator_with_Recall/blob/main/Pw_Generator_Screenshot0.png" width=30% alt="app pic two" />
+    <img src="https://github.com/SDBranka/PW_Generator_with_Recall/blob/main/Pw_Generator_Screenshot1.png" width=31% alt="app pic two" />
+    <img src="https://github.com/SDBranka/PW_Generator_with_Recall/blob/main/Pw_Generator_Screenshot2.png" width=30% alt="app pic two" />
 
 </p>
 
