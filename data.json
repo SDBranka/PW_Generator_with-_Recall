@@ -1,0 +1,10 @@
+{
+    "aaaaa": {
+        "email": "exampleEmail@something.com",
+        "password": "&UYB4mpgPVx*98i2#&"
+    },
+    "bbbbb": {
+        "email": "aaaaa@aaa.aaa",
+        "password": "bbbbb"
+    }
+}
